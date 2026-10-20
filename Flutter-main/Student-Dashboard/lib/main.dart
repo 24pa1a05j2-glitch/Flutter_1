@@ -91,7 +91,7 @@ class _StudentDashboardState extends State<StudentDashboard> {
                   bottom: 20,
                   child: CircleAvatar(
                     radius: 40,
-                    backgroundImage: AssetImage("assets/profile.jpg"),
+                    backgroundImage: AssetImage("assets/profile.png"),
                   ),
                 ),
                 Positioned(

@@ -37,7 +37,7 @@ class StudentProfile extends StatelessWidget {
             children: [
               const CircleAvatar(
                 radius: 55,
-                backgroundImage: AssetImage("assets/profile.jpg"),
+                backgroundImage: AssetImage("assets/profile.png"),
               ),
               const SizedBox(height: 15),
               const Text(
