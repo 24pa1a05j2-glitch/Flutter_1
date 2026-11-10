@@ -101,7 +101,7 @@ class _StudentDashboardState extends State<StudentDashboard> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: const [
                       Text(
-                        "Sugamya Ruby",
+                        "kowshik",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20, // Cleaned font scale for screen fitting
